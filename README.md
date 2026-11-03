@@ -16,7 +16,7 @@ typedef struct {
     char name[64];
     double price;
 } Product;
-
+ 
 typedef struct {
     char name[64];
     char address[128];
